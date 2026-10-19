@@ -1,7 +1,9 @@
 ✈️ Google Flights Tracker (Air Canada)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Automated-green.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey.svg)
+
 A lightweight, automated desktop application designed to monitor and record Air Canada flight prices from Google Flights.
 Built with Python, Tkinter, and Playwright, this tool provides a user-friendly graphical interface (GUI) that allows non-technical users to scrape flight prices at regular intervals without touching a single line of code or opening a terminal.
 ✨ Features
